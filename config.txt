@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "8ad766e10cb17a0d4acafc37dd29c627",
 # 模板消息id
-"template_id": "zjAU7t2R-klckZflf8JRkUvhLRnYuN_dje1GEkgmkn0",
+"template_id": "ug-mPuai_BSFYz_AFFIsBruDVQmPeliU45_UhvjDiAw",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oDoD16KMF9wmnMNnTlwXo7QJWkIU","oDoD16G1I_QcW7i5XtRWmrZfAAc0"],
 
@@ -21,9 +21,9 @@
 # 生日2
 "birthday2": {"name": "雨佳", "birthday": "r2000-07-03"},
 # 在一起的日子，格式同上
-"love_date": "2022-08-26",
+#"love_date": "2022-08-26",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "爱意在艳阳高照中灿烂,思念在星火斑斓中沉沦",
+"note_ch": "来日无方长,当下即心安",
 # 金句英文
-"note_en": "Love shines brightly in the bright sun,and thoughts sink in the sparks"
+"note_en": "The future is not long,and the present is peace of mind"
 }
