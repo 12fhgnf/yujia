@@ -1,29 +1,29 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "",
+"app_id": "wxd0b962564347c28e",
 # 公众号appSecret
-"app_secret": "",
+"app_secret": "8ad766e10cb17a0d4acafc37dd29c627",
 # 模板消息id
-"template_id": "",
+"template_id": "zjAU7t2R-klckZflf8JRkUvhLRnYuN_dje1GEkgmkn0",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": [""],
+"user": ["oDoD16KMF9wmnMNnTlwXo7QJWkIU","oDoD16G1I_QcW7i5XtRWmrZfAAc0"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "",
+"weather_key": "f6cfd05da309484597ae529a23d2d1b0",
 # 天行数据apikey
-"tian_api": " ",
+"tian_api": "519671ad5149f8a3a38124c8e818f480",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "番禺区",
+"region": "郑州市",
 # 生日1
-"birthday1": {"name": "小宝", "birthday": "1997-01-01"},
+#"birthday1": {"name": "小茹", "birthday": "r2000-05-01"},
 # 生日2
-"birthday2": {"name": "小林", "birthday": "r1997-01-01"},
+"birthday2": {"name": "雨佳", "birthday": "r2000-07-03"},
 # 在一起的日子，格式同上
-"love_date": "2021-01-01",
+"love_date": "2022-08-26",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "爱意在艳阳高照中灿烂,思念在星火斑斓中沉沦",
 # 金句英文
-"note_en": ""
+"note_en": "Love shines brightly in the bright sun,and thoughts sink in the sparks"
 }
